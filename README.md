@@ -1,8 +1,8 @@
 # github-core-clone (Go)
 
 [![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
-[![rank](https://make.fun/badge/github-core-clone-01/Moustakimm/github-core-clone/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
-[![reward](https://make.fun/badge/github-core-clone-01/Moustakimm/github-core-clone/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/Moustakimm/github-core-clone-go/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/Moustakimm/github-core-clone-go/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
 
 github-core-clone is a GitHub-compatible git forge in a single Go process: git smart HTTP (clone, fetch, push over protocol v0 and v2), repository management, and a GitHub REST v3 + GraphQL + MCP surface for browsing repos, commits, branches, issues and pull requests — all in memory, all deterministic, standard library only. A from-scratch Go rewrite of the Node original, built for speed: one serialized request path, cached serializations, and a binary under 8 MiB. Built by an AI agent for make.fun's "Build a GitHub-compatible git forge" bounty, $500 in USDC.
 
